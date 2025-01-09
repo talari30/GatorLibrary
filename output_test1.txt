@@ -1,0 +1,49 @@
+Error executing command 'glibrary.InsertBook(101, "Introduction to Algorithms", "Thomas H. Cormen", "Yes")': 'GatorLibrary' object has no attribute 'InsertBook'
+Error executing command 'glibrary.InsertBook(48, "Data Structures and Algorithms", "Sartaj Sahni", "Yes")': 'GatorLibrary' object has no attribute 'InsertBook'
+Book 48 not found in the Library
+Error executing command 'glibrary.InsertBook(132, "Operating System Concepts", "Abraham Silberschatz","Yes")': 'GatorLibrary' object has no attribute 'InsertBook'
+Error executing command 'glibrary.InsertBook(25, "Computer Networks", "Andrew S. Tanenbaum", "Yes")': 'GatorLibrary' object has no attribute 'InsertBook'
+Book 48 not found in the Library
+Book 101 not found in the Library
+Error executing command 'glibrary.InsertBook(73, "Introduction to the Theory of Computation", "Michael Sipser", "Yes")': 'GatorLibrary' object has no attribute 'InsertBook'
+Error executing command 'glibrary.InsertBook(12, "Artificial Intelligence: A Modern Approach", "Stuart Russell", "Yes")': 'GatorLibrary' object has no attribute 'InsertBook'
+Error executing command 'glibrary.InsertBook(6, "Database Management Systems", "Raghu Ramakrishnan", "Yes")': 'GatorLibrary' object has no attribute 'InsertBook'
+Book 48 not found in the Library
+Book 48 not found in the Library
+Book 48 not found in the Library
+Book 12 not found in the Library
+Book 12 not found in the Library
+Book 12 not found in the Library
+Book 48 not found in the Library
+No books found in the Library
+Error executing command 'glibrary.DeleteBook(12)': 'GatorLibrary' object has no attribute 'DeleteBook'
+Error executing command 'glibrary.ColorFlipCount()': 'GatorLibrary' object has no attribute 'ColorFlipCount'
+Error executing command 'glibrary.InsertBook(125, "Computer Organization and Design", "David A. Patterson", "Yes")': 'GatorLibrary' object has no attribute 'InsertBook'
+Error executing command 'glibrary.InsertBook(180, "Introduction to Software Engineering", "Ian Sommerville", "Yes")': 'GatorLibrary' object has no attribute 'InsertBook'
+Book 73 not found in the Library
+Book 73 not found in the Library
+Error executing command 'glibrary.InsertBook(115, "Operating Systems: Internals and Design Principles", "William Stallings", "Yes")': 'GatorLibrary' object has no attribute 'InsertBook'
+Book 25 not found in the Library
+Error executing command 'glibrary.InsertBook(210, "Machine Learning: A Probabilistic Perspective", "Kevin P. Murphy", "Yes")': 'GatorLibrary' object has no attribute 'InsertBook'
+Book 25 not found in the Library
+Book 132 not found in the Library
+No books found in the Library
+Book 101 not found in the Library
+Error executing command 'glibrary.InsertBook(80, "Software Engineering: A Practitioner's Approach", "Roger S. Pressman", "Yes")': 'GatorLibrary' object has no attribute 'InsertBook'
+Book 210 not found in the Library
+Book 73 not found in the Library
+Error executing command 'glibrary.InsertBook(60, "Introduction to Computer Graphics", "David F. Rogers", "Yes")': 'GatorLibrary' object has no attribute 'InsertBook'
+Book 210 not found in the Library
+Error executing command 'glibrary.InsertBook(4, "Design Patterns: Elements of Reusable Object-Oriented Software", "Erich Gamma", "Yes")': 'GatorLibrary' object has no attribute 'InsertBook'
+Error executing command 'glibrary.InsertBook(2, "Introduction to the Theory of Computation", "Michael Sipser", "Yes")': 'GatorLibrary' object has no attribute 'InsertBook'
+Book 210 not found in the Library
+Error executing command 'glibrary.InsertBook(65, "Computer Networks: Principles, Protocols, and Practice", "Olivier Bonaventure", "Yes")': 'GatorLibrary' object has no attribute 'InsertBook'
+Error executing command 'glibrary.ColorFlipCount()': 'GatorLibrary' object has no attribute 'ColorFlipCount'
+Error executing command 'glibrary.DeleteBook(125)': 'GatorLibrary' object has no attribute 'DeleteBook'
+Error executing command 'glibrary.DeleteBook(115)': 'GatorLibrary' object has no attribute 'DeleteBook'
+Error executing command 'glibrary.DeleteBook(210)': 'GatorLibrary' object has no attribute 'DeleteBook'
+Error executing command 'glibrary.ColorFlipCount()': 'GatorLibrary' object has no attribute 'ColorFlipCount'
+Error executing command 'glibrary.DeleteBook(25)': 'GatorLibrary' object has no attribute 'DeleteBook'
+Error executing command 'glibrary.DeleteBook(80)': 'GatorLibrary' object has no attribute 'DeleteBook'
+Error executing command 'glibrary.ColorFlipCount()': 'GatorLibrary' object has no attribute 'ColorFlipCount'
+Program Terminated!

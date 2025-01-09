@@ -1,0 +1,21 @@
+Error executing command 'glibrary.InsertBook(1, "Book1", "Author1", "Yes")': 'GatorLibrary' object has no attribute 'InsertBook'
+Error executing command 'glibrary.InsertBook(2, "Book2", "Author2", "Yes")': 'GatorLibrary' object has no attribute 'InsertBook'
+Error executing command 'glibrary.InsertBook(3, "Book3", "Author3", "Yes")': 'GatorLibrary' object has no attribute 'InsertBook'
+Error executing command 'glibrary.InsertBook(4, "Book4", "Author4", "Yes")': 'GatorLibrary' object has no attribute 'InsertBook'
+Error executing command 'glibrary.InsertBook(5, "Book5", "Author5", "Yes")': 'GatorLibrary' object has no attribute 'InsertBook'
+Book 2 not found in the Library
+Book 3 not found in the Library
+Error executing command 'glibrary.InsertBook(6, "Book6", "Author6", "Yes")': 'GatorLibrary' object has no attribute 'InsertBook'
+Error executing command 'glibrary.InsertBook(7, "Book7", "Author7", "Yes")': 'GatorLibrary' object has no attribute 'InsertBook'
+Error executing command 'glibrary.InsertBook(8, "Book8", "Author8", "Yes")': 'GatorLibrary' object has no attribute 'InsertBook'
+Book 4 not found in the Library
+Book 5 not found in the Library
+Book 2 not found in the Library
+Book 3 not found in the Library
+Book 4 not found in the Library
+Book 5 not found in the Library
+Book 6 not found in the Library
+Book 7 not found in the Library
+Book 8 not found in the Library
+Error executing command 'glibrary.InsertBook(9, "Book9", "Author9", "Yes")': 'GatorLibrary' object has no attribute 'InsertBook'
+Error executing command 'glibrary.InsertBook(10, "Book10", "Author10", "Yes")': 'GatorLibrary' object has no attribute 'InsertBook'

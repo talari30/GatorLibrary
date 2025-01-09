@@ -1,0 +1,39 @@
+Error executing command 'glibrary.InsertBook(5, "The Secret Garden", "Jane Smith", "Yes")': 'GatorLibrary' object has no attribute 'InsertBook'
+Book 5 not found in the Library
+Error executing command 'glibrary.InsertBook(3, "The Great Gatsby", "Mark Johnson", "Yes")': 'GatorLibrary' object has no attribute 'InsertBook'
+Error executing command 'glibrary.InsertBook(12, "To Kill a Mockingbird", "Sarah Lee", "Yes")': 'GatorLibrary' object has no attribute 'InsertBook'
+Book 3 not found in the Library
+Error executing command 'glibrary.DeleteBook(12)': 'GatorLibrary' object has no attribute 'DeleteBook'
+Error executing command 'glibrary.DeleteBook(3)': 'GatorLibrary' object has no attribute 'DeleteBook'
+Error executing command 'glibrary.DeleteBook(5)': 'GatorLibrary' object has no attribute 'DeleteBook'
+Book 5 not found in the Library
+Error executing command 'glibrary.InsertBook(50, "The Catcher in the Rye", "Michael Brown", "Yes")': 'GatorLibrary' object has no attribute 'InsertBook'
+Error executing command 'glibrary.InsertBook(22, "The Alchemist", "Paul Coelho", "Yes")': 'GatorLibrary' object has no attribute 'InsertBook'
+Book 22 not found in the Library
+Book 22 not found in the Library
+Book 22 not found in the Library
+Error executing command 'glibrary.InsertBook(10, "The Hobbit", "J.R.R. Tolkien", "Yes")': 'GatorLibrary' object has no attribute 'InsertBook'
+Error executing command 'glibrary.InsertBook(72, "Brave New World", "Aldous Huxley", "Yes")': 'GatorLibrary' object has no attribute 'InsertBook'
+Error executing command 'glibrary.InsertBook(94, "1984", "George Orwell", "Yes")': 'GatorLibrary' object has no attribute 'InsertBook'
+Error executing command 'print(glibrary.ColorFlipCount())': 'GatorLibrary' object has no attribute 'ColorFlipCount'
+Book 94 not found in the Library
+Book 22 not found in the Library
+Book 50 not found in the Library
+Book 10 not found in the Library
+Error executing command 'glibrary.InsertBook(28, "Lord of the Flies", "William Golding", "Yes")': 'GatorLibrary' object has no attribute 'InsertBook'
+Book 72 not found in the Library
+Book 50 not found in the Library
+Error executing command 'glibrary.DeleteBook(94)': 'GatorLibrary' object has no attribute 'DeleteBook'
+Book 22 not found in the Library
+No books found in the Library
+Book 22 not found in the Library
+Book 28 not found in the Library
+Error executing command 'glibrary.DeleteBook(50)': 'GatorLibrary' object has no attribute 'DeleteBook'
+Error executing command 'print(glibrary.ColorFlipCount())': 'GatorLibrary' object has no attribute 'ColorFlipCount'
+Book 22 not found in the Library
+Book 10 not found in the Library
+Book 10 not found in the Library
+Error executing command 'glibrary.DeleteBook(10)': 'GatorLibrary' object has no attribute 'DeleteBook'
+Error executing command 'glibrary.DeleteBook(22)': 'GatorLibrary' object has no attribute 'DeleteBook'
+Error executing command 'print(glibrary.ColorFlipCount())': 'GatorLibrary' object has no attribute 'ColorFlipCount'
+Program Terminated!
